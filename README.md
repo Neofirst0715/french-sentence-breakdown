@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # French Sentence Breakdown & Study System
 
 A [Claude Skill](https://docs.claude.com/en/docs/agents-and-tools/agent-skills/overview) that turns
@@ -80,6 +79,4 @@ french-sentence-breakdown/
 - Respects copyright: transcript cleaning is a functional transformation in service of instruction,
   not redistribution. The skill never reproduces song lyrics verbatim.
 - Not affiliated with Anthropic beyond using the standard Skill format.
-=======
-# french-sentence-breakdown
->>>>>>> 0583fdf4fc6d9fd3768a6572450b813454cae68b
+
