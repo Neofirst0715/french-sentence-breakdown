@@ -17,12 +17,20 @@ that flag convergence *and* divergence rather than just similarity.
 
 **Give it French content, get back:**
 - A cleaned, speaker-labeled, thematically segmented transcript (with a corrections table showing
-  every fix made to the raw auto-generated version)
-- A sentence-by-sentence breakdown: English translation, IPA, word-by-word gloss, sentence
-  structure, grammar notes flagging English/French convergence and divergence, and 2 extension
-  examples — per sentence
-- A running grammar-review table and a "recurring structures" analysis so you know what to actually
-  prioritize
+  every fix made to the raw auto-generated version — including flagging script/attribution
+  inconsistencies and cutting any copyrighted song lyrics that bled in from background music)
+- A sentence-by-sentence breakdown: English translation, **word-by-word gloss (never skipped, even
+  for short or repeated sentences — a limited-vocabulary learner can still not know a word inside a
+  familiar grammar structure)**, IPA, sentence structure, grammar notes flagging English/French
+  convergence and divergence, and extension examples for anything genuinely new
+- Explicit classification of the content's register/tier (teaching podcast / semi-authentic
+  learner-directed vlog / fully authentic native-speed content / formal scripted-narration
+  register) and roughly what CEFR level it sits at — with a level-mismatch protocol for content far
+  above the learner's current level (prioritize clean-up over forcing an exhaustive breakdown, offer
+  a smaller intensive segment instead)
+- A running grammar-review table, a running faux-amis log, and a "recurring structures" analysis so
+  you know what to actually prioritize — including flagging when material previews a tense further
+  along your stated learning roadmap than you've formally studied yet
 - A practical note on how to use that specific piece of material given its difficulty
 
 **Give it your own French writing, get back:**
